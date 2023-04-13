@@ -1,7 +1,7 @@
-// Desarrollado por Angel de Jesús Manzo Rosas (Alias = BionicHawk)
+// Developed by Angel de Jesús Manzo Rosas as BionicHawk
 #include <stdio.h>
 
-//Esta parte del código ejecuta el comando de python para abrir la aplicación
+//The main function executes a command to run the python file ("MouseBot.py")
 int main(){
     printf("Iniciando Interprete");
     system("python MouseBot.py");
